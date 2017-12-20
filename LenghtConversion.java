@@ -1,12 +1,10 @@
 //lenght conversion from Meter to Centimeter
 
 import java.util.Scanner;
-// the name of our class its public
-public class LengthConversion {
-    //void main
-        public static void main (String[] args)
+public class LengthConversion 
+{
+    public static void main (String[] args)
         {
-            //declare float
             float m,cm;
             System.out.println("Enter Length in meter:");
             //Take input
